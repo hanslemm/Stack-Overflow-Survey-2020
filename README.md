@@ -7,9 +7,9 @@ See the [Medium post](https://hanslemm.medium.com/the-best-languages-to-begin-yo
 
 The main questions aimed to answer in this notebook are:
 
-- What are the biggest dev communities in 2020?;
+- What are the biggest dev communities in 2020 (according to SO 2020 Survey)?
 - Which languages pay the biggest salaries and have more developers?
-- What are the top 10 languages by income for those with 1 or less years of professional experience? How does the salary of these languages develop along with experience?;
+- What are the top 10 languages by income for those with 1 or less years of professional experience? How does the salary of these languages develop along with experience?
 
 ### Requirements
 

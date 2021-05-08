@@ -3,7 +3,7 @@
 
 This project analyzes the Data provided by [StackOverflow Annual Developer Survey](https://insights.stackoverflow.com/survey) and it's part of the [Udacity Data Science Nano Degree](https://www.udacity.com/course/data-scientist-nanodegree--nd025).
 
-See the [Medium post](link.here).
+See the [Medium post](https://hanslemm.medium.com/the-best-languages-to-begin-your-dev-career-based-on-so-2020-survey-6716df14e6c1).
 
 The main questions aimed to answer in this notebook are:
 

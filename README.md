@@ -5,11 +5,11 @@ This project analyzes the Data provided by [StackOverflow Annual Developer Surve
 
 See the [Medium post](https://hanslemm.medium.com/the-best-languages-to-begin-your-dev-career-based-on-so-2020-survey-6716df14e6c1).
 
-The main questions aimed to answer in this notebook are:
+The main questions to be answered in this notebook are:
 
-- What are the biggest dev communities in 2020 (according to SO 2020 Survey)?
-- Which languages pay the biggest salaries and have more developers?
-- What are the top 10 languages by income for those with 1 or less years of professional experience? How does the salary of these languages develop along with experience?
+- What are the top 5 languages considering community size?
+- What is the developer average income for each language? How is it related with the community size?
+- What are the top 10 languages with higher incomes devs with one or fewer years of experience?
 
 ### Requirements
 
@@ -64,8 +64,8 @@ pip install -r requirements.txt
 
 ## Acknowledgment
 
-[Stack Overflow 2020 Developer Survey](https://insights.stackoverflow.com/survey)
-[Udacity Data Science Nano Degree](https://www.udacity.com/course/data-scientist-nanodegree--nd025)
+- [Stack Overflow 2020 Developer Survey](https://insights.stackoverflow.com/survey)
+- [Udacity Data Science Nano Degree](https://www.udacity.com/course/data-scientist-nanodegree--nd025)
 
 ## Contact
 
